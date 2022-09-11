@@ -1,0 +1,6 @@
+When a class is public all its default members and methods also become public
+If nothing is mentioned then it is default i.e. can be accessed within same directory but no subclass
+protected can be accessed only within the subclass,same package and class
+private only within that class and not even subclass
+if class is private all its modifiers are private
+protected cannot be apploed ot 
